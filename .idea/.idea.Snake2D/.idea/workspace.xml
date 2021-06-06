@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8b1165c-cee5-4f2e-8b6d-ca868c122ed9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Snake2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Snake2D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/15/15b862797e8cec6a70d2fb723e730026" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4d/4d4ef9add531174ddbc1cb81c4f4d324" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/67/67c6ddeeb980e346d0ad473c05ac2a9c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/71/71abb6a87be0154c72cccbcfc4569c3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/74/74345b7e58c81b45c0836472b3eacea3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/85/85db56453bf58781b00b1725f23ef6f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9a/9aea20ec4fd2dc46112ea8db91106ef7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b4/b4394bf70ce1fe65211192a244eeec5c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/UnityProjects/Space Shooter/Assets/Scripts/Mover.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/UnityProjects/Space Shooter/Assets/Scripts/AmmoManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/UnityProjects/Space Shooter/Assets/Scripts/Ammo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/UnityProjects/Space Shooter/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/TaleGroving.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TaleMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TaleGrowing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SnakeMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FoodPlacement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreateFood.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tLCe34SeBpIM6IMn74QYbUsxpZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8b1165c-cee5-4f2e-8b6d-ca868c122ed9" name="Default Changelist" comment="" />
+      <created>1622539098939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622539098939</updated>
+      <workItem from="1622539106477" duration="1349000" />
+      <workItem from="1622542215432" duration="3082000" />
+      <workItem from="1622545376425" duration="3119000" />
+      <workItem from="1622548651983" duration="594000" />
+      <workItem from="1622550611896" duration="1756000" />
+      <workItem from="1622552451457" duration="614000" />
+      <workItem from="1622614008836" duration="799000" />
+      <workItem from="1622617768366" duration="4217000" />
+      <workItem from="1622623663703" duration="1223000" />
+      <workItem from="1622624915157" duration="1388000" />
+      <workItem from="1622626889903" duration="1505000" />
+      <workItem from="1622628747031" duration="1779000" />
+      <workItem from="1622630559111" duration="1850000" />
+      <workItem from="1622632906387" duration="1817000" />
+      <workItem from="1622704768897" duration="3664000" />
+      <workItem from="1622708486835" duration="5549000" />
+      <workItem from="1622714213870" duration="4147000" />
+      <workItem from="1622753664282" duration="1498000" />
+      <workItem from="1622785827863" duration="765000" />
+      <workItem from="1622788747626" duration="891000" />
+      <workItem from="1622791217781" duration="1778000" />
+      <workItem from="1622793103153" duration="1352000" />
+      <workItem from="1622797782803" duration="1779000" />
+      <workItem from="1622799594864" duration="1780000" />
+      <workItem from="1622801407517" duration="1653000" />
+      <workItem from="1622890765670" duration="1330000" />
+      <workItem from="1622961751065" duration="1099000" />
+      <workItem from="1622963497552" duration="1456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
